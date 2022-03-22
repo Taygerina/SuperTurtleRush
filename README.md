@@ -21,7 +21,6 @@ A seguir uma breve descrição da história do jogo: "A Turtle nasceu em Fernand
 Super Turtle Rush é um jogo totalmente focado em conscientização
 
 ### *Mercado*
-PC
 O jogo é projetado na UNITY, tendo um núcleo com todas as mêcanicas citadas anteriormente, sendo assim, será um jogo totalmente digital.
 
 ### *Público- Alvo*
