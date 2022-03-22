@@ -1,4 +1,4 @@
-# SuperTurtleRush
+# Super Turtle Rush
 ![image](https://media.discordapp.net/attachments/950776229013897286/950789139563937823/imagem_promocional.png?width=705&height=397) 
  
 ### *Identidade do Jogo*
