@@ -687,6 +687,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &814206504 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 6415721368881748104, guid: 0efc662aebe026348a34e9af55070ed5, type: 3}
+  m_PrefabInstance: {fileID: 1057222433}
+  m_PrefabAsset: {fileID: 0}
 --- !u!60 &864771182 stripped
 PolygonCollider2D:
   m_CorrespondingSourceObject: {fileID: 1195589559767869313, guid: faf268c6e10d9d14d8f8aa6ea71bf034, type: 3}
@@ -902,6 +907,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6415721368067870522, guid: 0efc662aebe026348a34e9af55070ed5, type: 3}
+      propertyPath: anim
+      value: 
+      objectReference: {fileID: 814206504}
     - target: {fileID: 6415721368067870534, guid: 0efc662aebe026348a34e9af55070ed5, type: 3}
       propertyPath: m_Name
       value: Player (1)
