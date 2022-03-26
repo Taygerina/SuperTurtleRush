@@ -614,7 +614,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 440676912}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -137.29298, y: 34.21972, z: -12}
+  m_LocalPosition: {x: -137.29259, y: 34.21972, z: -12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 108701375}
@@ -800,7 +800,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -89.9666, y: 39.774647, z: -12}
+  m_LocalPosition: {x: -89.98418, y: 39.774647, z: -12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1730,6 +1730,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6415721368067870520, guid: 0efc662aebe026348a34e9af55070ed5, type: 3}
+      propertyPath: m_LinearDrag
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6415721368067870521, guid: 0efc662aebe026348a34e9af55070ed5, type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.size
       value: 91
@@ -2016,7 +2020,7 @@ PrefabInstance:
       objectReference: {fileID: 1396226965}
     - target: {fileID: 6415721368067870522, guid: 0efc662aebe026348a34e9af55070ed5, type: 3}
       propertyPath: force
-      value: 60
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 6415721368067870534, guid: 0efc662aebe026348a34e9af55070ed5, type: 3}
       propertyPath: m_Name

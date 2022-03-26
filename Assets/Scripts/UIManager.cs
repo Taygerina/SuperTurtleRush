@@ -56,5 +56,4 @@ public class UIManager : MonoBehaviour
 
         pnlGameOver.SetActive(true);
     }
-
 }
