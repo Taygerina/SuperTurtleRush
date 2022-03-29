@@ -2,11 +2,11 @@
 ![image](https://media.discordapp.net/attachments/950776229013897286/950789139563937823/imagem_promocional.png?width=705&height=397) 
  
  ### *História*
-A seguir uma breve descrição da história do jogo: "A Juju nasceu em Fernando de Noronha, e para crescer ela precisa passar por vários momentos aonde precisa desviar de poluições humanas como, sacolas, canudos, roxas e redes. Conforme, ela cresce ela encontra o Donatelo e se reproduz, porém, ela precisa achar um local seguro aonde precisa estar colocando seus ovos em segurança. Assim, que ela encontra este local ela deposita os seus ovos na areia e finaliza"
+A seguir uma breve descrição da história do jogo: "A Juju nasceu em Fernando de Noronha, e para crescer ela precisa passar por vários momentos aonde precisa desviar de poluições humanas como, sacolas, canudos, roxas e redes. Conforme, ela cresce ela encontra o Donatelo e se reproduz, porém, ela precisa achar um local seguro aonde precisa estar colocando seus ovos em segurança. Assim, que ela encontra este local ela deposita os seus ovos na areia e finaliza".
 
 ### *Funcionamento do Jogo*
 No jogo a tartaruga anda pra frente automaticamente e aparecem obstáculos, sendo eles canudos,sacolas,peixes e algas.
-O jogador deve pegar somente as algas e os peixes e assim fazendo uma melhor pontuação
+O jogador deve pegar somente as algas e os peixes e assim fazendo uma melhor pontuação.
 
 
 ### *Objetivos*
