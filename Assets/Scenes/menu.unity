@@ -525,6 +525,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 626ae6c4c85971c4e94feece6fe6082a, type: 3}
+    - target: {fileID: 2859581507164339146, guid: 7f865672acc296b48a5faad49ec7520f, type: 3}
+      propertyPath: nomedacena
+      value: Tutorial
+      objectReference: {fileID: 0}
     - target: {fileID: 2859581507164339185, guid: 7f865672acc296b48a5faad49ec7520f, type: 3}
       propertyPath: m_Name
       value: Canvas
