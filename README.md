@@ -1,5 +1,5 @@
 # Super Turtle Rush
-<img src="https://media.discordapp.net/attachments/950776229013897286/958164777555857488/Screenshot_2.png" width="700px"/>
+<img src="https://cdn.discordapp.com/attachments/908440002868965417/961393013421146132/unknown.png" width="400px"/>
 
  
  ### *História*
