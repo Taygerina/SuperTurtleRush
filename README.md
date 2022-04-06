@@ -47,10 +47,10 @@ A seguir uma breve descrição da história do jogo: "A Juju nasceu em Fernando 
 A gameplay se dá através das teclas do teclado, "W" e "S".
 
 ### *Fluxo do jogo*
-Assim que o jogo aberto será mostrado está primeira imagem:
+*Assim que o jogo aberto será mostrado está primeira imagem:*
 ![image](https://media.discordapp.net/attachments/950776229013897286/958164777555857488/Screenshot_2.png)
 
-Após temos o nascimento da Juju:
+*Após temos o nascimento da Juju:*
 ![image](https://media.discordapp.net/attachments/950776229013897286/957749589140725790/cena1.png?width=831&height=467)
 
 ![image](https://media.discordapp.net/attachments/950776229013897286/957749589681778738/cena2.png?width=831&height=467)
@@ -64,7 +64,7 @@ Após temos o nascimento da Juju:
 ![image](https://media.discordapp.net/attachments/950776229013897286/960291800566865980/cena6.png?width=831&height=467)
 
 
-Após as cat cines do nascimento da Juju virá a gameplay do jogo:
+*Após as cat cines do nascimento da Juju virá a gameplay do jogo:*
 ![image](https://media.discordapp.net/attachments/950776229013897286/958164777287450645/Screenshot_1.png)
 
 ### *Personagens* 
