@@ -52,10 +52,15 @@ Assim que o jogo aberto será mostrado está primeira imagem:
 
 Após temos o nascimento da Juju:
 ![image](https://media.discordapp.net/attachments/950776229013897286/957749589140725790/cena1.png?width=831&height=467)
+
 ![image](https://media.discordapp.net/attachments/950776229013897286/957749589681778738/cena2.png?width=831&height=467)
+
 ![image](https://media.discordapp.net/attachments/950776229013897286/957749589987954688/cena3.png?width=831&height=467)
+
 ![image](https://media.discordapp.net/attachments/950776229013897286/959934973157179442/cena4.png?width=831&height=467)
+
 ![image](https://cdn.discordapp.com/attachments/950776229013897286/960291798507454554/cena5.png)
+
 ![image](https://media.discordapp.net/attachments/950776229013897286/960291800566865980/cena6.png?width=831&height=467)
 
 
