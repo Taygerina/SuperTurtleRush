@@ -1,5 +1,6 @@
 # Super Turtle Rush
-![image](https://media.discordapp.net/attachments/950776229013897286/950789139563937823/imagem_promocional.png?width=705&height=397) 
+<img src="https://media.discordapp.net/attachments/950776229013897286/958164777555857488/Screenshot_2.png" width="700px"/>
+
  
  ### *História*
 A seguir uma breve descrição da história do jogo: "A Juju nasceu em Fernando de Noronha, e para crescer ela precisa passar por vários momentos aonde precisa desviar de poluições humanas como, sacolas, canudos, roxas e redes. Conforme, ela cresce ela encontra o Donatelo e se reproduz, porém, ela precisa achar um local seguro aonde precisa estar colocando seus ovos em segurança. Assim, que ela encontra este local ela deposita os seus ovos na areia e finaliza".
