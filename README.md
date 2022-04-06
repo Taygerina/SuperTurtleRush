@@ -37,7 +37,7 @@ Super Turtle Rush é focado em crianças, porém, é uma classificação livre p
 
 # GAME DESIGN DOCUMENT
 ## *Super Turtle Rush*
-![image](https://cdn.discordapp.com/attachments/950776229013897286/960587263912333382/logo3.png) 
+<img src="https://cdn.discordapp.com/attachments/908440002868965417/961393013421146132/unknown.png" width="200px"/>
  
 Super Turtle Rush é um jogo educacional aonde, uma tartaruga luta para crescer em meio as poluições e luta para achar um lugar seguro para o seu filho. O jogo será projetado na UNITY tendo como sistema operacional o WINDOWS. Como Super turtle rush é um jogo educacional, terá diversos públicos alvos pelo fato de ser um gênero extremamente versátil e atemporal, será uma classificação livre. 
 
