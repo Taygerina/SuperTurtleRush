@@ -51,7 +51,7 @@ A gameplay se dá através das teclas do teclado, "W" e "S".
 <img src="https://media.discordapp.net/attachments/950776229013897286/958164777555857488/Screenshot_2.png" width="700px"/>
 
 *Após temos o nascimento da Juju:*
-<img src="https://media.discordapp.net/attachments/950776229013897286/957749589140725790/cena1.png?width=831&height=467" width="700px"/>
+<img src="https://media.discordapp.net/attachments/950776229013897286/957749589140725790/cena1.png?width=831&height=467" width="800px"/>
 
 ![image](https://media.discordapp.net/attachments/950776229013897286/957749589681778738/cena2.png?width=831&height=467)
 
