@@ -48,7 +48,7 @@ A gameplay se dá através das teclas do teclado, "W" e "S".
 
 ### *Fluxo do jogo*
 *Assim que o jogo aberto será mostrado está primeira imagem:*
-![image](https://media.discordapp.net/attachments/950776229013897286/958164777555857488/Screenshot_2.png)
+<img src="https://media.discordapp.net/attachments/950776229013897286/958164777555857488/Screenshot_2.png" width="400px"/>
 
 *Após temos o nascimento da Juju:*
 ![image](https://media.discordapp.net/attachments/950776229013897286/957749589140725790/cena1.png?width=831&height=467)
