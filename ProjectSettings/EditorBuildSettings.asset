@@ -27,6 +27,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Ovos2.unity
     guid: f11d44c0c4d5abc4d86bdff9b2289205
   - enabled: 1
+    path: Assets/Scenes/Ovo5.unity
+    guid: 4f78a303bb6906e4aad95d05ec827863
+  - enabled: 1
+    path: Assets/Scenes/Ovo4.unity
+    guid: 67c3783e87a0922458dd4672555339c2
+  - enabled: 1
     path: Assets/Scenes/Fase2.unity
     guid: 3aa9f0b211f0e5a4c82d5064e3598791
   - enabled: 1

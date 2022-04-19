@@ -11,6 +11,7 @@ public class UIManager : MonoBehaviour
     private ObstacleSpawner obstacleSpawner;
 
     public GameObject pnlGameOver;
+    public GameObject pnlGamewon;
     public TMP_Text txtScore;
     public TMP_Text txtLives;
 
@@ -31,6 +32,14 @@ public class UIManager : MonoBehaviour
     {
         Score += value;
         txtScore.text = Score.ToString();
+        if (Lives >= 30)
+        {
+            Destroy(Player.gameObject);
+            obstacleSpawner.StopRoutine();
+
+            pnlGamewon.SetActive(true);
+
+        }
     }
 
     public void SetSLives(int value)
