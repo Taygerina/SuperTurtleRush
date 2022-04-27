@@ -57,6 +57,7 @@
     <Compile Include="Assets\Scripts\automove.cs" />
     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
+    <Compile Include="Assets\Scripts\Bolha.cs" />
     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
     <Compile Include="Assets\Scripts\Respiraçãobar.cs" />
     <Compile Include="Assets\Scripts\ObjectRandom.cs" />
@@ -75,7 +76,7 @@
     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
-    <Compile Include="Assets\Scripts\Bolha.cs" />
+    <Compile Include="Assets\Scripts\VidaTurtle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

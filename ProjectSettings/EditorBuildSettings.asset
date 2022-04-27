@@ -36,6 +36,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Fase2.unity
     guid: 3aa9f0b211f0e5a4c82d5064e3598791
   - enabled: 1
+    path: Assets/Scenes/Ovo6.unity
+    guid: 3b27f19428cbac54aad633541fd3051b
+  - enabled: 1
     path: Assets/Scenes/Fase3.unity
     guid: 6c77fbc937e669d45b85fc84812d8934
   m_configObjects: {}
