@@ -5,13 +5,13 @@ public class ObstacleSpawner : MonoBehaviour
 {
     [Header("Settings")]
     [SerializeField]
-    public float delay = 1f; //TEMPO ENTRE CADA PREFAB QUE VAI SER CRIADO
+    private float delay = 1f; //TEMPO ENTRE CADA PREFAB QUE VAI SER CRIADO
     [SerializeField]
-    public float radius = 5f; //TAMANHO DO RAIO QUE SPAWNA OS OBSTACLES
+    private float radius = 5f; //TAMANHO DO RAIO QUE SPAWNA OS OBSTACLES
 
     [Header("References")]
     [SerializeField]
-    public GameObject[] prefabsToSpawn; //VETOR DE PREFABS QUE SERÃO CRIADOS
+    private GameObject[] prefabsToSpawn; //VETOR DE PREFABS QUE SERÃO CRIADOS
 
     private Coroutine _spawnCoroutine = null; //OBJETO QUE GUARDA A ROTINA PARA VERIFICAÇÃO
     private WaitForSeconds _waitForSeconds; //OBJETO QUE ESPERA O TEMPO QUE DEFINIMOS

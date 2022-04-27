@@ -1,18 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
-using UnityEngine.SceneManagement;
 
 public class tiravida : MonoBehaviour
 {
+    public int damage = 1;
+    public GameObject fx;
+
+    public UIManager uimanager;
+
+    private void Start()
+    {
+        uimanager = FindObjectOfType<UIManager>();
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
 
-        if (other.gameObject.CompareTag("Player"))
+        if (other.CompareTag("Player"))
         {
-            other.gameObject.GetComponent<VidaTurtle>().ReceberDano();
+            uimanager.SetSLives(damage);
+            Instantiate(fx, transform.position, Quaternion.identity);
 
             Destroy(gameObject);
         }

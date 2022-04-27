@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1440
     height: 817
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -119,10 +119,17 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 767
-  m_MinSize: {x: 678, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+<<<<<<< HEAD
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 109
+  controlID: 57
+=======
+  m_MinSize: {x: 677, y: 342}
+  m_MaxSize: {x: 12002, y: 8042}
+  vertical: 0
+  controlID: 18115
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,10 +151,14 @@ MonoBehaviour:
     y: 0
     width: 1164
     height: 767
-  m_MinSize: {x: 403, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
+  m_MinSize: {x: 402, y: 342}
+  m_MaxSize: {x: 8002, y: 8042}
   vertical: 1
-  controlID: 110
+<<<<<<< HEAD
+  controlID: 58
+=======
+  controlID: 18116
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,10 +180,14 @@ MonoBehaviour:
     y: 0
     width: 1164
     height: 496
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 111
+<<<<<<< HEAD
+  controlID: 59
+=======
+  controlID: 18117
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,8 +207,8 @@ MonoBehaviour:
     y: 0
     width: 305
     height: 496
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -236,7 +251,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProjectBrowser
+  m_Name: ConsoleWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -245,15 +260,15 @@ MonoBehaviour:
     y: 496
     width: 1164
     height: 271
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 15}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
   - {fileID: 17}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,8 +288,8 @@ MonoBehaviour:
     y: 0
     width: 276
     height: 767
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -397,10 +412,17 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
+<<<<<<< HEAD
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 88a40000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c8bbffff18c1ffff1ac7ffff18ceffff02cfffff
+      m_ExpandedIDs: b6f5ffff44fbffff745f0000
+=======
+      scrollPos: {x: 0, y: 60}
+      m_SelectedIDs: aa440000
+      m_LastClickedID: 17578
+      m_ExpandedIDs: 88a0ffff44fbffff02450000
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -416,7 +438,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 11}
+        m_ClientGUIView: {fileID: 8}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -460,9 +482,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -74.08599, y: 39.352425, z: -137.18837}
+<<<<<<< HEAD
+    m_Target: {x: 11.8818245, y: 5.384686, z: -149.11023}
     speed: 2
-    m_Value: {x: -74.08599, y: 39.352425, z: -137.18837}
+    m_Value: {x: 11.8818245, y: 5.384686, z: -149.11023}
+=======
+    m_Target: {x: -8.365456, y: 46.845936, z: -3396.5269}
+    speed: 2
+    m_Value: {x: -8.365456, y: 46.845936, z: -3396.5269}
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -513,9 +541,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 39.93113
+<<<<<<< HEAD
+    m_Target: 29.908783
     speed: 2
-    m_Value: 39.93113
+    m_Value: 29.908783
+=======
+    m_Target: 232.26656
+    speed: 2
+    m_Value: 232.26656
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -578,22 +612,37 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+<<<<<<< HEAD
+    - Assets/Scenes
+=======
+    - Assets/Scripts
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+<<<<<<< HEAD
+  - Assets/Scenes
+=======
+  - Assets/Scripts
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Talita\Documents\GitHub\SuperTurtleRush
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2c770000
-    m_LastClickedID: 30508
-    m_ExpandedIDs: 000000002477000000ca9a3b
+    m_SelectedIDs: a0470000
+    m_LastClickedID: 18336
+    m_ExpandedIDs: 000000008847000000ca9a3b
+=======
+    scrollPos: {x: 0, y: 14}
+    m_SelectedIDs: 70460000
+    m_LastClickedID: 18032
+    m_ExpandedIDs: 0000000052460000544600005646000060460000f248000000ca9a3b
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -621,7 +670,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+<<<<<<< HEAD
+    m_ExpandedIDs: 0000000088470000
+=======
+    m_ExpandedIDs: 00000000524600005446000056460000584600005a4600005c4600005e4600006a460000f248000000ca9a3b
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -646,10 +699,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: aa440000
+    m_LastClickedInstanceID: 17578
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300002c4600001e4500004a45000054460000a44e0000f24d00006e7b00005c6e000000ed000034800000d420000058680000706f0000fe6e000046470000f44800003a460000507a0000
+    m_ExpandedInstanceIDs: c62300002c4600001e4500004a45000054460000a44e0000f24d00006e7b00005c6e000000ed000034800000d420000058680000706f0000fe6e000046470000f44800003a460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -665,7 +718,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -729,7 +782,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -14228
+  m_LastSelectedObjectID: 17578
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -762,7 +815,11 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+<<<<<<< HEAD
+  m_LastVerticalScrollValue: 531
+=======
+  m_LastVerticalScrollValue: 462
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
@@ -795,7 +852,6 @@ MonoBehaviour:
   m_ViewTransforms:
     m_KeySerializationHelper:
     - {fileID: 4088650110333766800, guid: 62038c331603c864fa6fe703cb884675, type: 2}
-    - {fileID: -3643795951818946856, guid: 8ac8a2eecfbaac1438ac10d527ca221a, type: 2}
     m_ValueSerializationHelper:
     - e00: 1
       e01: 0
@@ -813,26 +869,10 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 8ac8a2eecfbaac1438ac10d527ca221a, type: 2}
+  m_AnimatorController: {fileID: 9100000, guid: 62038c331603c864fa6fe703cb884675, type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: -3643795951818946856, guid: 8ac8a2eecfbaac1438ac10d527ca221a, type: 2}
+  - m_Target: {fileID: 4088650110333766800, guid: 62038c331603c864fa6fe703cb884675, type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}

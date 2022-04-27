@@ -1,5 +1,9 @@
 sceneSetups:
-- path: Assets/Scenes/Fase1.unity
+<<<<<<< HEAD
+- path: Assets/Scenes/Ovo5.unity
+=======
+- path: Assets/Scenes/Fase2.unity
+>>>>>>> parent of 072857b (Animação iddle e tira vida)
   isLoaded: 1
   isActive: 1
   isSubScene: 0
