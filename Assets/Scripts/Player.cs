@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
 
         rb.AddForce(direction * force);
 
-        transform.localScale = new Vector3(tamanho, tamanho, tamanho);
+        //transform.localScale = new Vector3(tamanho, tamanho, tamanho);
 
     }
 }

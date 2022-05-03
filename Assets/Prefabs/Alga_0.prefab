@@ -199,7 +199,6 @@ GameObject:
   - component: {fileID: 6742905732968306984}
   - component: {fileID: 6742905732968306987}
   - component: {fileID: 6742905732968306986}
-  - component: {fileID: 6742905732968306989}
   - component: {fileID: 6742905732968306988}
   m_Layer: 0
   m_Name: Alga_0
@@ -423,21 +422,6 @@ PolygonCollider2D:
       - {x: -2.5175292, y: -2.4443424}
       - {x: -2.3192825, y: -2.401861}
       - {x: -2.1776776, y: -2.316898}
---- !u!114 &6742905732968306989
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6742905732968306991}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba09377286d934f4abb29d4e0b5964f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  score: 1
-  fx: {fileID: 1845240806346120, guid: b395d5d6eb4b4b846acc021ee036b744, type: 3}
-  uimanager: {fileID: 0}
 --- !u!114 &6742905732968306988
 MonoBehaviour:
   m_ObjectHideFlags: 0

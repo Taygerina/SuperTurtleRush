@@ -136,9 +136,9 @@ GameObject:
   - component: {fileID: 8633501759204946206}
   - component: {fileID: 7535512053331473343}
   - component: {fileID: 6213440606456127127}
-  - component: {fileID: 4650940280490644718}
-  - component: {fileID: 1770226970096796463}
-  - component: {fileID: 5139612146833242660}
+  - component: {fileID: 524544994504448320}
+  - component: {fileID: 593068405588434747}
+  - component: {fileID: 2418593675696271561}
   m_Layer: 0
   m_Name: Sacola
   m_TagString: Untagged
@@ -250,8 +250,8 @@ MonoBehaviour:
   - {fileID: 2989662868344574919}
   - {fileID: 3022301663157331211}
   m_Bounds:
-    m_Center: {x: 0.30586505, y: 0.35422158, z: 0}
-    m_Extent: {x: 3.5439987, y: 2.9664693, z: 0}
+    m_Center: {x: 0.375906, y: 0.3477745, z: 0}
+    m_Extent: {x: 3.4739575, y: 2.9729164, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
 --- !u!60 &6213440606456127127
@@ -432,7 +432,7 @@ PolygonCollider2D:
       - {x: -1.9190292, y: -1.1213896}
       - {x: -2.499609, y: -1.1497105}
       - {x: -2.5137696, y: -1.13555}
---- !u!50 &4650940280490644718
+--- !u!50 &524544994504448320
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -452,8 +452,22 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
---- !u!114 &1770226970096796463
+  m_Constraints: 0
+--- !u!114 &593068405588434747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9151319275259106782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12fb4611f0d6cb54fb38050fe58e48af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  direction: {x: -1, y: 0}
+  force: 5
+--- !u!114 &2418593675696271561
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -466,19 +480,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 1
-  fx: {fileID: 0}
   uimanager: {fileID: 0}
---- !u!114 &5139612146833242660
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9151319275259106782}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 12fb4611f0d6cb54fb38050fe58e48af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  direction: {x: 0, y: 0}
-  force: 1

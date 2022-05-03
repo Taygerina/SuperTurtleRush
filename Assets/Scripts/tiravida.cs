@@ -5,7 +5,7 @@ using UnityEngine;
 public class tiravida : MonoBehaviour
 {
     public int damage = 1;
-    public GameObject fx;
+   // public GameObject fx;
 
     public UIManager uimanager;
 
@@ -20,7 +20,7 @@ public class tiravida : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             uimanager.SetSLives(damage);
-            Instantiate(fx, transform.position, Quaternion.identity);
+            //Instantiate(fx, transform.position, Quaternion.identity);
 
             Destroy(gameObject);
         }

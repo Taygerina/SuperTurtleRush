@@ -12,7 +12,6 @@ public class UIManager : MonoBehaviour
 
     public GameObject pnlGameOver;
     public GameObject pnlGamewon;
-    public TMP_Text txtScore;
     public TMP_Text txtLives;
 
     public GameObject Player;
@@ -23,7 +22,6 @@ public class UIManager : MonoBehaviour
 
     private void Start()
     {
-        txtScore.text = "0";
 
         obstacleSpawner.StartRoutine();
     }
@@ -31,8 +29,7 @@ public class UIManager : MonoBehaviour
     public void SetScore(int value)
     {
         Score += value;
-        txtScore.text = Score.ToString();
-        if (Lives >= 30)
+        if (Lives >= 40)
         {
             Destroy(Player.gameObject);
             obstacleSpawner.StopRoutine();
