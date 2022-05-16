@@ -8,18 +8,18 @@ public class Player : MonoBehaviour
     Vector2 direction;
     public float force = 1;
     public Animator anim;
-    public float TamanhoMinimo = 1, TamanhoMaximo = 10;
-    public float tamanho;
+    //public float TamanhoMinimo = 1, TamanhoMaximo = 10;
+    //public float tamanho;
 
     void OnGui()
     {
-        tamanho = GUI.HorizontalSlider(new Rect(Screen.width / 2 - Screen.width / 2.5f, Screen.height / 2 - Screen.height / 2.5f, Screen.width / 8, Screen.height / 14), tamanho, TamanhoMinimo, TamanhoMaximo);
+        //tamanho = GUI.HorizontalSlider(new Rect(Screen.width / 2 - Screen.width / 2.5f, Screen.height / 2 - Screen.height / 2.5f, Screen.width / 8, Screen.height / 14), tamanho, TamanhoMinimo, TamanhoMaximo);
     }
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        tamanho = TamanhoMinimo;
+       // tamanho = TamanhoMinimo;
     }
 
     private void Update()
