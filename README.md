@@ -3,7 +3,7 @@
 
  
  ### *História*
-A seguir uma breve descrição da história do jogo: "A Juju nasceu em Fernando de Noronha, e para crescer ela precisa passar por vários momentos aonde precisa desviar de poluições humanas como, sacolas, canudos, roxas e redes. Conforme, ela cresce ela encontra o Donatelo e se reproduz, porém, ela precisa achar um local seguro aonde precisa estar colocando seus ovos em segurança. Assim, que ela encontra este local ela deposita os seus ovos na areia e finaliza".
+A seguir uma breve descrição da história do jogo: "A Juju nasceu em Fernando de Noronha, e para crescer ela precisa passar por vários momentos aonde precisa desviar de poluições humanas como, sacolas, canudos, roxas e redes. Conforme, ela cresce ela encontra o Donatelo e se reproduz, porém, ela precisa achar um local seguro aonde precisa estar colocando seus ovos em segurança. Nos ajude a levar a Juju até a praia em segurança"
 
 ### *Funcionamento do Jogo*
 No jogo a tartaruga anda pra frente automaticamente e aparecem obstáculos, sendo eles canudos,sacolas,peixes e algas.
@@ -43,30 +43,8 @@ Super Turtle Rush é focado em crianças, porém, é uma classificação livre p
 Super Turtle Rush é um jogo educacional aonde, uma tartaruga luta para crescer em meio as poluições e luta para achar um lugar seguro para o seu filho. O jogo será projetado na UNITY tendo como sistema operacional o WINDOWS. Como Super turtle rush é um jogo educacional, terá diversos públicos alvos pelo fato de ser um gênero extremamente versátil e atemporal, será uma classificação livre. 
 
 ### *História e Gameplay*
-A seguir uma breve descrição da história do jogo: "A Juju nasceu em Fernando de Noronha, e para crescer ela precisa passar por vários momentos aonde precisa desviar de poluições humanas como, sacolas, canudos, roxas e redes. Conforme, ela cresce ela encontra o Donatelo e se reproduz, porém, ela precisa achar um local seguro aonde precisa estar colocando seus ovos em segurança. Assim, que ela encontra este local ela deposita os seus ovos na areia e finaliza".
+A seguir uma breve descrição da história do jogo: "A Juju nasceu em Fernando de Noronha, e para crescer ela precisa passar por vários momentos aonde precisa desviar de poluições humanas como, sacolas, canudos, roxas e redes. Conforme, ela cresce ela encontra o Donatelo e se reproduz, porém, ela precisa achar um local seguro aonde precisa estar colocando seus ovos em segurança. Nos ajude a levar Juju até a praia em segurança
 
-A gameplay se dá através das teclas do teclado, "W" e "S".
-
-### *Fluxo do jogo*
-*Assim que o jogo aberto será mostrado está primeira imagem:*
-<img src="https://media.discordapp.net/attachments/950776229013897286/958164777555857488/Screenshot_2.png" width="700px"/>
-
-*Após temos o nascimento da Juju:*
-<img src="https://media.discordapp.net/attachments/950776229013897286/957749589140725790/cena1.png?width=831&height=467" width="800px"/>
-
-![image](https://media.discordapp.net/attachments/950776229013897286/957749589681778738/cena2.png?width=831&height=467)
-
-![image](https://media.discordapp.net/attachments/950776229013897286/957749589987954688/cena3.png?width=831&height=467)
-
-![image](https://media.discordapp.net/attachments/950776229013897286/959934973157179442/cena4.png?width=831&height=467)
-
-![image](https://cdn.discordapp.com/attachments/950776229013897286/960291798507454554/cena5.png)
-
-![image](https://media.discordapp.net/attachments/950776229013897286/960291800566865980/cena6.png?width=831&height=467)
-
-
-*Após as cat cines do nascimento da Juju virá a gameplay do jogo:*
-![image](https://media.discordapp.net/attachments/950776229013897286/958164777287450645/Screenshot_1.png)
 
 ### *Personagens* 
 O jogo conta com 1 personagem principal que se chama Juju;
